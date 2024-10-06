@@ -4,7 +4,7 @@ import { NativeWindStyleSheet } from "nativewind";
 
 export default function HomeScreen() {
   return (
-    <View className="flex-1 items-center justify-center bg-white">
+    <View className="flex-1 bg-current items-center justify-center bg-white">
       <Text>Hello Guys</Text>
       <StatusBar style="auto" />
     </View>
